@@ -1,0 +1,82 @@
+TSAP2.png
+size: 2013, 1312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GA10
+  rotate: false
+  xy: 0, 0
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA11
+  rotate: false
+  xy: 671, 0
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA12
+  rotate: false
+  xy: 1342, 0
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA13
+  rotate: false
+  xy: 0, 328
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA14
+  rotate: false
+  xy: 671, 328
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA14tbd
+  rotate: false
+  xy: 1342, 328
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA15
+  rotate: false
+  xy: 0, 656
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA16
+  rotate: false
+  xy: 671, 656
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA17
+  rotate: false
+  xy: 1342, 656
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA18
+  rotate: false
+  xy: 0, 984
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GAFinal
+  rotate: false
+  xy: 671, 984
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1

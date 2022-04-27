@@ -1,0 +1,33 @@
+SettingsOptionsAtlas.png
+size: 878, 61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VolumeSettingsButton
+  rotate: false
+  xy: 0, 0
+  size: 289, 61
+  orig: 289, 61
+  offset: 0, 0
+  index: -1
+VolumeSlider
+  rotate: false
+  xy: 289, 0
+  size: 11, 61
+  orig: 11, 61
+  offset: 0, 0
+  index: -1
+VolumeSliderBackDrop
+  rotate: false
+  xy: 300, 0
+  size: 289, 61
+  orig: 289, 61
+  offset: 0, 0
+  index: -1
+WindowSettingsButton
+  rotate: false
+  xy: 589, 0
+  size: 289, 61
+  orig: 289, 61
+  offset: 0, 0
+  index: -1

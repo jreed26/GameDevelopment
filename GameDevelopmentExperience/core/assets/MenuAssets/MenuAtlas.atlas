@@ -1,0 +1,166 @@
+MenuAtlas.png
+size: 1932, 1284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackButtonOff
+  rotate: false
+  xy: 0, 1034
+  size: 720, 250
+  orig: 720, 250
+  offset: 0, 0
+  index: -1
+BackButtonOn
+  rotate: false
+  xy: 720, 1034
+  size: 720, 250
+  orig: 720, 250
+  offset: 0, 0
+  index: -1
+ExitBlack
+  rotate: false
+  xy: 0, 0
+  size: 454, 128
+  orig: 454, 128
+  offset: 0, 0
+  index: -1
+ExitGray
+  rotate: false
+  xy: 454, 0
+  size: 454, 128
+  orig: 454, 128
+  offset: 0, 0
+  index: -1
+PlayBlack
+  rotate: false
+  xy: 908, 0
+  size: 483, 128
+  orig: 483, 128
+  offset: 0, 0
+  index: -1
+PlayG1
+  rotate: false
+  xy: 1391, 0
+  size: 483, 128
+  orig: 483, 128
+  offset: 0, 0
+  index: -1
+PlayG2
+  rotate: false
+  xy: 0, 128
+  size: 483, 128
+  orig: 483, 128
+  offset: 0, 0
+  index: -1
+PlayG3
+  rotate: false
+  xy: 483, 128
+  size: 483, 128
+  orig: 483, 128
+  offset: 0, 0
+  index: -1
+PlayG4
+  rotate: false
+  xy: 966, 128
+  size: 483, 128
+  orig: 483, 128
+  offset: 0, 0
+  index: -1
+PlayG5
+  rotate: false
+  xy: 0, 896
+  size: 483, 132
+  orig: 483, 132
+  offset: 0, 0
+  index: -1
+PlayG6
+  rotate: false
+  xy: 1449, 128
+  size: 483, 128
+  orig: 483, 128
+  offset: 0, 0
+  index: -1
+PlayG7
+  rotate: false
+  xy: 0, 256
+  size: 483, 128
+  orig: 483, 128
+  offset: 0, 0
+  index: -1
+PlayG8
+  rotate: false
+  xy: 483, 256
+  size: 483, 128
+  orig: 483, 128
+  offset: 0, 0
+  index: -1
+PlayG9
+  rotate: false
+  xy: 966, 256
+  size: 483, 128
+  orig: 483, 128
+  offset: 0, 0
+  index: -1
+SettingsBlack
+  rotate: false
+  xy: 0, 384
+  size: 888, 128
+  orig: 888, 128
+  offset: 0, 0
+  index: -1
+SettingsG1
+  rotate: false
+  xy: 888, 384
+  size: 888, 128
+  orig: 888, 128
+  offset: 0, 0
+  index: -1
+SettingsG2
+  rotate: false
+  xy: 0, 512
+  size: 888, 128
+  orig: 888, 128
+  offset: 0, 0
+  index: -1
+SettingsG3
+  rotate: false
+  xy: 483, 896
+  size: 888, 138
+  orig: 888, 138
+  offset: 0, 0
+  index: -1
+SettingsG4
+  rotate: false
+  xy: 888, 512
+  size: 888, 128
+  orig: 888, 128
+  offset: 0, 0
+  index: -1
+SettingsG5
+  rotate: false
+  xy: 0, 640
+  size: 888, 128
+  orig: 888, 128
+  offset: 0, 0
+  index: -1
+SettingsG6
+  rotate: false
+  xy: 888, 640
+  size: 888, 128
+  orig: 888, 128
+  offset: 0, 0
+  index: -1
+SettingsG7
+  rotate: false
+  xy: 0, 768
+  size: 888, 128
+  orig: 888, 128
+  offset: 0, 0
+  index: -1
+SettingsG8
+  rotate: false
+  xy: 888, 768
+  size: 888, 128
+  orig: 888, 128
+  offset: 0, 0
+  index: -1

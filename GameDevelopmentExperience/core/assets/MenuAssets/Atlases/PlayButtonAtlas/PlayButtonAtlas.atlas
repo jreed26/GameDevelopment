@@ -1,0 +1,33 @@
+PlayButtonAtlas.png
+size: 646, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PlayBase
+  rotate: false
+  xy: 0, 0
+  size: 469, 128
+  orig: 469, 128
+  offset: 0, 0
+  index: -1
+PlayG1
+  rotate: false
+  xy: 0, 128
+  size: 646, 128
+  orig: 646, 128
+  offset: 0, 0
+  index: -1
+PlayG2
+  rotate: false
+  xy: 0, 256
+  size: 646, 128
+  orig: 646, 128
+  offset: 0, 0
+  index: -1
+PlayG3
+  rotate: false
+  xy: 0, 384
+  size: 646, 128
+  orig: 646, 128
+  offset: 0, 0
+  index: -1

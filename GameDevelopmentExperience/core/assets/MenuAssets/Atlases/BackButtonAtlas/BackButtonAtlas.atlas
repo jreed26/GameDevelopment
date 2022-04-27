@@ -1,0 +1,40 @@
+BackButtonAtlas.png
+size: 1641, 256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackBase
+  rotate: false
+  xy: 0, 0
+  size: 547, 128
+  orig: 547, 128
+  offset: 0, 0
+  index: -1
+BackG1
+  rotate: false
+  xy: 547, 0
+  size: 547, 128
+  orig: 547, 128
+  offset: 0, 0
+  index: -1
+BackG2
+  rotate: false
+  xy: 1094, 0
+  size: 547, 128
+  orig: 547, 128
+  offset: 0, 0
+  index: -1
+BackG3
+  rotate: false
+  xy: 0, 128
+  size: 547, 128
+  orig: 547, 128
+  offset: 0, 0
+  index: -1
+BackG4
+  rotate: false
+  xy: 547, 128
+  size: 547, 128
+  orig: 547, 128
+  offset: 0, 0
+  index: -1

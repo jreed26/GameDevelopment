@@ -1,0 +1,40 @@
+ExitButtonAtlas.png
+size: 487, 640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ExitBase
+  rotate: false
+  xy: 0, 0
+  size: 487, 128
+  orig: 487, 128
+  offset: 0, 0
+  index: -1
+ExitG1
+  rotate: false
+  xy: 0, 128
+  size: 487, 128
+  orig: 487, 128
+  offset: 0, 0
+  index: -1
+ExitG2
+  rotate: false
+  xy: 0, 256
+  size: 487, 128
+  orig: 487, 128
+  offset: 0, 0
+  index: -1
+ExitG3
+  rotate: false
+  xy: 0, 384
+  size: 487, 128
+  orig: 487, 128
+  offset: 0, 0
+  index: -1
+ExitG4
+  rotate: false
+  xy: 0, 512
+  size: 487, 128
+  orig: 487, 128
+  offset: 0, 0
+  index: -1

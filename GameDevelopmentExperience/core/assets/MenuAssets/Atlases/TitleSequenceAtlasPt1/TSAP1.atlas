@@ -1,0 +1,75 @@
+TSAP1.png
+size: 2013, 1312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GA1
+  rotate: false
+  xy: 0, 0
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA2
+  rotate: false
+  xy: 671, 0
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA3
+  rotate: false
+  xy: 1342, 0
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA4
+  rotate: false
+  xy: 0, 328
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA5
+  rotate: false
+  xy: 671, 328
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA6
+  rotate: false
+  xy: 1342, 328
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA7
+  rotate: false
+  xy: 0, 656
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA8
+  rotate: false
+  xy: 671, 656
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GA9
+  rotate: false
+  xy: 1342, 656
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1
+GABase
+  rotate: false
+  xy: 0, 984
+  size: 671, 328
+  orig: 671, 328
+  offset: 0, 0
+  index: -1

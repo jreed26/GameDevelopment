@@ -1,0 +1,40 @@
+SettingsButtonAtlas.png
+size: 820, 640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SettingsBase
+  rotate: false
+  xy: 0, 0
+  size: 820, 128
+  orig: 820, 128
+  offset: 0, 0
+  index: -1
+SettingsG1
+  rotate: false
+  xy: 0, 128
+  size: 820, 128
+  orig: 820, 128
+  offset: 0, 0
+  index: -1
+SettingsG2
+  rotate: false
+  xy: 0, 256
+  size: 820, 128
+  orig: 820, 128
+  offset: 0, 0
+  index: -1
+SettingsG3
+  rotate: false
+  xy: 0, 384
+  size: 820, 128
+  orig: 820, 128
+  offset: 0, 0
+  index: -1
+SettingsG4
+  rotate: false
+  xy: 0, 512
+  size: 820, 128
+  orig: 820, 128
+  offset: 0, 0
+  index: -1

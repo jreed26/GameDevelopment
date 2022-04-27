@@ -1,0 +1,33 @@
+
+GameAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pipe
+  rotate: false
+  xy: 1, 114
+  size: 450, 112
+  orig: 450, 112
+  offset: 0, 0
+  index: -1
+temp
+  rotate: false
+  xy: 453, 1
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+TempEnemyImg
+  rotate: false
+  xy: 1, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TempPlayerImg
+  rotate: false
+  xy: 680, 194
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
