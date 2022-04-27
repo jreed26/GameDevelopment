@@ -1,6 +1,11 @@
 Game Development Experience: A Summary.
 Jacob Reed
+
+
 The University Of West Florida
+
+
+
 Computer Science.
   
   My experience with Game Development came in the form of an assignment during a course centered around Software Engineering. The assignment was a group-style project that was designed to take place incrementally over the course of the entire semester. The coursework breakdown was implemented by way of 3 separate sprints, lasting 2 weeks each. At the end of each sprint we had to complete a sprint retrospective. The retrospective evaluated 4 main categories: 
