@@ -18,6 +18,8 @@ The project was designed to allow us to implement an Agile Framework, while also
 2.	Flow and Control Structure
 3.	State Management
 4.	Memory Management
+
+
 This project also presented ample exposure to Git Bash, and Version Control. I also took this opportunity to expose myself to linux command line.
 
 With respect to the project specifically, and not the goals of the project, I was able to design, implement, and integrate several design patterns. 
