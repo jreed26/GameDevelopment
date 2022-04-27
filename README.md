@@ -1,4 +1,6 @@
-Game Development Experience: A Summary.
+Game Development Experience:A Summary.
+
+
 Jacob Reed
 
 
