@@ -88,8 +88,8 @@ Go To:
 							 3. Go to Eclipse Adoptium Distribution Folder
 									 * (Should be in top layer)
 							 4. select "8.0.3 - ... -hotspot"
-	
-			*That is the set-up finished, now its time to use gradle to build the directory/dependency structure.*
+						
+			*At this point the set-up is finished, press Next to Build the imported project*
 	
 	## Build / Directory Stucture
  
@@ -102,4 +102,4 @@ In the Project Directory Structure there is a Game Directory, with 2 Sub directo
 	- Game-desktop:
 		- To launch the game, you have to go into this directory and run the desktopLauncher class.
 
-# Email me with any issues or questions you have: @jgr26@students.uwf.edu
+### Questions, Comments, Concerns: @jgr26@students.uwf.edu
