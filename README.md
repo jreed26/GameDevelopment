@@ -62,8 +62,9 @@ in near real time. This application of concept so quickly is not an experience I
 
 ## Setting Up the Project Workspace
 
-Now Open Eclipse and create a new Work Space
-- Go To:
+Now Open Eclipse and create a new Work Space:
+
+<br>Go To:
 	- File
 		- **Import**: Existing Gradle Project
 
