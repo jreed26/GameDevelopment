@@ -63,34 +63,34 @@ in near real time. This application of concept so quickly is not an experience I
 ## Setting Up the Project Workspace
 
 Now Open Eclipse and create a new Work Space
-Go To:
-- File
-	- **Import**: Existing Gradle Project
- 
-		- Next
-			- **Browse:** Find your project root folder and select it
-				- Toggle "Override Workspace Settings"  
+- Go To:
+	- File
+		- **Import**: Existing Gradle Project
 
-					- For: Gradle Distrubition: 
-						- **make sure gradle wrapper is selected.** 
-					- For: Advanced Options  
-						- Gradle user home: 
+			- Next
+				- **Browse:** Find your project root folder and select it
+					- Toggle "Override Workspace Settings"  
 
-							 1. Browse
-							 2. Go to Project Repo
-							 3. Go to .gradle file
-							 4. select "6.7.1."
+						- For: Gradle Distrubition: 
+							- **make sure gradle wrapper is selected.** 
+						- For: Advanced Options  
+							- Gradle user home: 
 
-						- Java user Home
-	
-							 1. Browse
-							 2. Go to Eclispse Adoptium 8 Installation Directory
-							 3. Go to Eclipse Adoptium Distribution Folder
-									 * (Should be in top layer)
-							 4. select "8.0.3 - ... -hotspot"
-						
-			*At this point the set-up is finished, press Next to Build the imported project*
-	
+								 1. Browse
+								 2. Go to Project Repo
+								 3. Go to .gradle file
+								 4. select "6.7.1."
+
+							- Java user Home
+
+								 1. Browse
+								 2. Go to Eclispse Adoptium 8 Installation Directory
+								 3. Go to Eclipse Adoptium Distribution Folder
+										 * (Should be in top layer)
+								 4. select "8.0.3 - ... -hotspot"
+
+				*At this point the set-up is finished, press Next to Build the imported project*
+
 	## Build / Directory Stucture
  
 
