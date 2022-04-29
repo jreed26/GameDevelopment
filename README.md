@@ -7,26 +7,26 @@
 
  - My experience with Game Development came in the form of an assignment during a course centered around Software Engineering. The assignment was a group-style project that was designed to take place incrementally over the course of the entire semester. The coursework breakdown was implemented by way of 3 separate sprints, lasting 2 weeks each. At the end of each sprint we had to complete a sprint retrospective. The retrospective evaluated 4 main categories: 
  
-	- Deliverables Completed during the sprint.
-	-	A personal evaluation on the progress made (or didn’t make)
-	- 	An evaluation of problems/ and or potential problems that may arise.
-	- 	Items to complete during the next sprint.
+	-Deliverables Completed during the sprint.
+	-A personal evaluation on the progress made (or didn’t make)
+	-An evaluation of problems/ and or potential problems that may arise.
+	-Items to complete during the next sprint.
 
 
 - The project was designed to allow us to implement an Agile Framework, while also giving exposure to software engineering concepts such as:
-	-  MoSCoW,
+	- MoSCoW
 	- Gerkin Syntax 
 	- Gestalt Design Principles
-	-  Software Design and Requirements
+	- Software Design and Requirements
 	- and many other methodologies used in Creating Software. 
 
 
 - The Application we developed was our choice, and by majority rule we decided on an adventure style videogame. In the group I focused mostly on Technical Design aspects, including elements such as:
 	
-	- 	Game Engine
-	- Flow and Control Structure
-	 - State Management
-	- Memory Management
+	-Game Engine
+	-Flow and Control Structure
+	-State Management
+	-Memory Management
 
 - This project also presented ample exposure to Git Bash, and Version Control. I also took this opportunity to give myself to more exposure to the linux command line.
 
