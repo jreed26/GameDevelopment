@@ -68,7 +68,7 @@ Now Open Eclipse and create a new Work Space:
 - File
 	- **Import**: Existing Gradle Project
 
-		- Next
+		- Next:
 			- **Browse:** Find your project root folder and select it
 				- Toggle "Override Workspace Settings"  
 
