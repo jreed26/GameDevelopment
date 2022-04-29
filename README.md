@@ -14,6 +14,7 @@
 
 
 - The project was designed to allow us to implement an Agile Framework, while also giving exposure to software engineering design principles such as:
+
 	-MoSCoW
 	-Gerkin Syntax 
 	-Gestalt Design Principles
