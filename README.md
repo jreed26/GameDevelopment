@@ -38,7 +38,7 @@ If Interested in viewing the source code/ Running the program, you will have to 
 
 
 
-### **Install Guide**
+# **Install Guide**
 
 ## SETUP
  - Download Eclipse: <a
@@ -102,4 +102,4 @@ In the Project Directory Structure there is a Game Directory, with 2 Sub directo
 	- Game-desktop:
 		- To launch the game, you have to go into this directory and run the desktopLauncher class.
 
-Email me any issues or questions you have: @jgr26@students.uwf.edu
+# Email me with any issues or questions you have: @jgr26@students.uwf.edu
