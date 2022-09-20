@@ -6,7 +6,7 @@
   
 
 
- - My experience with Game Development came in the form of an assignment during a course centered around Software Engineering. The assignment was a group-style project that was designed to take place incrementally over the course of the entire semester. The coursework breakdown was implemented by way of 3 separate sprints, lasting 2 weeks each. At the end of each sprint we had to complete a sprint retrospective. The retrospective evaluated 4 main categories: 
+ - My experience with Game Development came in the form of an assignment during a course centered around Software Engineering. The assignment was a group-style project that was designed to take place incrementally over the course of the entire semester. The coursework breakdown was implemented by way of 3 separate sprints, lasting 2 weeks each. At the end of each sprint we had to complete a sprint retrospective. Unfortunately, my group did not contribute nearly as much as they likely should have, and as such i have removed their lines of code. The only reason i feel the need to mention that is to illustrate that all code presented in this repository is written by myself alone. The retrospective evaluated 4 main categories: 
  
 	- Deliverables Completed during the sprint.
 	- A personal evaluation on the progress made (or didn’t make)
